@@ -271,7 +271,7 @@ SELECT
 FROM product_aggregations;
 ```
 
-## Project Structure
+# Project Structure
 - `datasets/`: Contains raw datasets used for the project.
 - `docs/`: Project documentation if any.
 - `scripts/`: SQL scripts for exploratory data analysis and advanced analytics.
