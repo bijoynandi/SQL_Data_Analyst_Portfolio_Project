@@ -287,3 +287,9 @@ FROM product_aggregations;
 # Conclusion
 
 In conclusion, this project has provided a comprehensive overview of how SQL can be used for data analysis. By following the steps outlined in this README, you can extract valuable insights from any type of data and make informed decisions based on the insights gained from the analysis of your data warehouse by using SQL. Remember, the key to successful data analysis is to understand your data, ask the right questions, and use the right tools. SQL is a powerful tool for data analysis, and with the right approach, you can unlock the full potential of your data. Feel  free to modify and adapt the SQL queries to suit your specific project needs. Happy analyzing!
+
+## Acknowledgments
+I would like to express my sincere gratitude to [Baraa Khatib Salkini](https://github.com/DataWithBaraa) for providing the guidance and resources that made this project possible. The expertise and guidance provided by Baraa have been invaluable in my journey as a data analyst. I am grateful for the opportunity to work with such a knowledgeable and supportive mentor. Thank you, Baraa!
+
+## Contact
+If you have any questions or would like to connect, feel free to reach out to me at [bijoynandi31@gmail.com](mailto:bijoynandi31@gmail.com). I'm always open to discussing data analysis, SQL, and related topics. Let's connect and explore the world of data together!
